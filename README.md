@@ -13,7 +13,9 @@
 
 # Jenis data pipeline
 a. Raw data atau data mentah, merupakan sebutan untuk pelacakan data tanpa tahap pemrosesan apa pun. Jenis data ini umumnya disimpan dalam format encoding dan dimanfaatkan untuk mengirimkan tracking event.
+
 b. Processed data, merupakan raw data yang sudah diterjemahkan menjadi format event khusus dengan menerapkan skema tertentu.
+
 c. cooked data, berupa processed data yang sudah diringkas atau dikumpulkan.
 
 
